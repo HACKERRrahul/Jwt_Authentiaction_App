@@ -15,7 +15,7 @@ This is a Go-based application that implements JWT (JSON Web Token) authenticati
 
 ## Introduction
 
-The `jwt_authentication_app` is designed to provide secure authentication using JWTs. It includes user management features such as registration and login.
+The `jwt_authentication_app` is designed to provide secure authentication using JWTs. It includes user management features such as registration and login. It also has feature of refresh token which reduces redundant logins.
 
 ## Features
 
