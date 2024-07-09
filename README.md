@@ -22,7 +22,7 @@ The `jwt_authentication_app` is designed to provide secure authentication using 
 - User registration
 - User login
 - JWT-based authentication
-- Secure API endpoints
+- Refresh JWT token
 
 ## Installation
 
