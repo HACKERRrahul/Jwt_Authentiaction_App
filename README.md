@@ -62,7 +62,17 @@ Once the application is running, you can interact with the API using tools like 
       "Password":"your_password" 
     }
     ```
-    
+### User login
+
+- **URL:** `http://localhost:9090/login`
+- **Method:** `POST`
+- **Body:**
+    ```json
+    {
+      "email": "your_email",
+      "password": "your_password"
+    }
+    ```
 ### Get user info
 
 - **URL:** `http://localhost:9090/user/get`
